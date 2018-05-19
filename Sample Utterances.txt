@@ -1,0 +1,7 @@
+1. say hello to my guest {firstName}
+2. meet my friend {firstName}
+3. meet my guest {firstName}
+4. here is my friend {firstName}
+5. say hello to my friend{firstName}
+6. he is my friend {fristName}
+7. this is my friend {fristName}
